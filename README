@@ -4,7 +4,7 @@ Jednoduchá 2D dungeon-crawler hra vytvorená v Unity. Vytvorená ako súčasť 
 ## Súbory
 Súčaštou odovzdaných súborov sú:
 
-- Source - priečinok s Unity projektom a zdrojovými kódmi, vrátane grafiky
+- Source - priečinok zo zdrojovými kódmi, vrátane grafiky
 - Game - priečinok obsahuje výslednú hru pripravenú na spustenie `Pixel Role.exe`
 - Media - priečinok s videom
 - Latex - priečinok so zdrojovým kódom tejto práce
