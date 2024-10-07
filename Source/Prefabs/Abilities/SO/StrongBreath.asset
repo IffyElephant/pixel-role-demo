@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 305ee446a0454ff4187c7ef651d303f9, type: 3}
+  m_Name: StrongBreath
+  m_EditorClassIdentifier: 
+  Icon: {fileID: -1692831291, guid: cac67f14e11c2ca409428fdb547e3632, type: 3}
+  cooldown: 0.08
+  manaCost: 0
+  damage: 8
+  velocity: 45
+  hitRadius: 0.05
+  spellPrefab: {fileID: 2520756752389864733, guid: 3807a21a9271cfe429be68b777e5d440, type: 3}

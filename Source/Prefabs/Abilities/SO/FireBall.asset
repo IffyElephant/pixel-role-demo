@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 305ee446a0454ff4187c7ef651d303f9, type: 3}
+  m_Name: FireBall
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 1642333896, guid: ee7d9f9da64fb4a468df9979841112a5, type: 3}
+  cooldown: 1
+  manaCost: 0
+  damage: 10
+  velocity: 35
+  hitRadius: 0.5
+  spellPrefab: {fileID: 2520756752389864733, guid: 71ca41c01d31d614bba8ba53a9db36e7, type: 3}

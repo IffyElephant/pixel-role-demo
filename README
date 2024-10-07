@@ -1,0 +1,42 @@
+# 2D HRA V UNITY
+Jednoduchá 2D dungeon-crawler hra vytvorená v Unity. Vytvorená ako súčasť bakalárskej práce so zameraním na procedurálne generovanie máp.
+
+## Súbory
+Súčaštou odovzdaných súborov sú:
+
+- Source - priečinok s Unity projektom a zdrojovými kódmi, vrátane grafiky
+- Game - priečinok obsahuje výslednú hru pripravenú na spustenie `Pixel Role.exe`
+- Media - priečinok s videom
+- Latex - priečinok so zdrojovým kódom tejto práce
+- README
+
+## Importovanie projektu
+Priečinok `Source` je možné importovať do Unity editoru, verzia na ktorej bol projekt vytvorení je  `2021.3.8f1`. 
+
+Kompatibilitu s novšími a staršími verziami nevieme zaručiť, no malo by to byť do určitej miery možné. 
+
+
+## Video
+Ak by video z akéhokoľvek dôvodu nefungovalo je prístupné na youtube z linku [https://www.youtube.com/watch?v=Kj3ak1eTxaM](https://www.youtube.com/watch?v=Kj3ak1eTxaM)
+
+## Hra
+Hra po zapnutí vyzve hráča na vytvorenie novej hry alebo pokračovanie v starej ak existuje. 
+
+Pri založení novej hry si hráč môže vybrať generátor máp ich veľkosť a náročnosť.
+
+Seed z ktorého sa mapa vygenerovala je možné zistiť v hre po stlačení `ESC`.
+
+### Mechaniky:
+Pohyb hráča - W, A, S, D
+
+Posadnutie postavy - namierenie myši a stlačenie medzerníku
+
+Vyskočenie z posadnutej postavy - dlhé stlačenie medzerníku a namierenie na prázdne miesto (ak hráč namieri na postavu ktorá sa dá posadnúť, po pustení medzerníku aj tak preberie kontrolu nad telom, nejedná sa o chybu)
+
+Schopnosti - pevné nastavenie na pravé, ľavé tlačidlo myši a tlačidla R
+
+ESC menu - zobrazenie a vypnutie stlačením `ESC`, alebo stlačením tlačila `E`
+
+## Autor
+
+Šimon Peter Hrúz - xhruzs00
